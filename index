@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <head>
+    <link rel="stylesheet" type="text/css" href="style.css" media=”screen” />
     <meta charset="utf-8">
     <title> Ma page</title>
   </head>
   <body>
-    Alexandre
+    <p>Alexandre</p>
 	Estia
   </body>
 </html>
